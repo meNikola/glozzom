@@ -1,3 +1,8 @@
+body {
+  overflow-x: hidden;
+}
+
+
 .navbar .nav-link {
   font-size: 14px;
   text-transform: uppercase;
@@ -38,7 +43,6 @@
   min-height: 200px;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  overflow: hidden;
 }
 
 .dark-overlay {
@@ -65,4 +69,9 @@
 
 #video-play a {
   color: #fff;
+}
+
+
+#gallery a {
+  
 }
